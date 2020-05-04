@@ -1,8 +1,8 @@
-# Description- Solution 
+# Description - Solution 
 
 This repository consists of the solution for the project: Facial Keypoint Detection from the udacity Computer Vision Nanodegree. The solutions are uploaded as the HTML files of notebook 2 and notebook 3 and the models_solution python file. 
 Please restrain yourself from accessing it, if you are currently taking the course. The master code is not altered in any way.
-                            -- Happy Coding --
+
 [//]: # (Image References)
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
